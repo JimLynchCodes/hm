@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/Hoboken-Matchmaking-Logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Mission",
+      "href": "mission"
+    },
+    {
+      "name": "System",
+      "href": "system"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Great Matchmaking",
+    "subtitle": "In Hoboken, NJ",
+    "description": "We offer, hands down, the best matchmaking services available in and around the New York metro area. We're different because we describe your potential match BEFORE you pay, and if you accept it's only $100 per match! So why not give the into consultation a try? After all, it's FREE to get started!",
+    "img": "/assets/images/matchmaking-image.jpeg",
+    "primaryAction": {
+      "text": "Book Intro Call",
+      "href": "https://calendly.com/hobokenmatchmaking"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:inquiries@gmail.com"
+    }
+  },
+  "mission": {
+    "title": "Better Matchmaking, Happier Clients",
+    "items": [
+      {
+        "title": "Every Match Is Approved By You",
+        "description": "Unlike other matchmakers who just set you up with whoever they have available, we know that if the match doesn't make sense then we are just wasting our time on pitching you an offer you will decline. This incentivizes us to be very selective, really get to know you, and give you unparalleled matches!",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "No Time Constraints",
+        "description": "When you sign up, you get free limetime access to the program. Once you've gone through the intro call, we'll look through our candidate pool to see if we can find any great matches right off the bat. However, some times it takes time to find a good match! You can't force love, and you can't force good matchmaking! If you want to pause the service at any time you can always just let us know you want to pause and we'll stop sending you match requests!",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "system": {
+    "title": "Experience the Magic",
+    "subtitle": "A Groundbreaking New System",
+    "description": "Our matchmaking system not only gives better matches to users, it also has been shown to cause less stress and require less time invested. And on top of all that, our service is up to 50x more affordable than our competitors like \"Tawkify\" and \"It's Just Lunch\".",
+    "items": [
+      {
+        "name": "1) Intro Call",
+        "description": "Have a free, 1-on-1 call with one of our matchmakers who get you know you and enter you into our candidate pool.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "2) Get Match Requests",
+        "description": "As we come across candidates we think will be a good match for you, we'll notify you by sending a \"match request\" email and follow up with a phone call to discuss.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "3) Accept or Deline Match Requests",
+        "description": "We want you to feel comfortable declining match requests. Be picky and hold out for a really great match! When you decide you want to accept a match, you then pay the $100. If your potential match also accepts, we'll put you two in touch! If the other party for whatever reason doesn't accept, you'll be automatically fully refunded!",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "4) Repeat, And Pause At Any Time",
+        "description": "Once you've found your special person (or if you just feel like to want to take a break from dating for a while) you can always just send us an email or phone call, and we'll stop sending you match requests. It's as simple as that!",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Join For Free",
+        "price": "$0",
+        "priceDetails": " to enter candidate pool!",
+        "system": [
+          "1-on-1 consultation",
+          "All information is 100% confidential.",
+          "We learn about you and what you like.",
+          "We let you know of potential matches.",
+          "Sit back and wait for dates to roll in!"
+        ]
+      },
+      {
+        "name": "Get Matched, Then Pay",
+        "price": "$100",
+        "priceDetails": " per match",
+
+        "system": [
+          "When we find a good match, we'll contact you.",
+          "We then describe the match we have for you.",
+          "We pitch you the opportunity with no pressure.",
+          "Each party pays $100 to accept the match.",
+          "If both parties accept, you're connected!",
+          "In cases where only one party accepts, the other person is automatically fully refunded."
+        ]
+      },
+      {
+        "name": "Coaching",
+        "price": "$100",
+        "priceDetails": "per hour",
+        "system": [
+          "1-hour video or phone call focused on you.",
+          "Increase your chances of dating success.",
+          "1-on-1 meetings with excellent coaches.",
+          "Advice on what things you can work on.",
+          "Deep dive into topics of your choice."
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}

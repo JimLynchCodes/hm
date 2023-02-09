@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Head from 'next/head';
+
 import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
@@ -14,6 +16,10 @@ import System from '../components/System';
 const App = () => {
   return (
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
+      <Head>
+        <title>Hoboken Matchmaking</title>
+        <meta property="og:title" content="Hoboken Matchmaking" key="title" />
+      </Head>
       <div className={`relative bg-background`}>
         <div className="max-w-7xl mx-auto">
           <div

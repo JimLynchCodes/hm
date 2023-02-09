@@ -33,7 +33,7 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:inquiries@gmail.com"
+      "href": "mailto:matchmaker@hobokenmatchmaking.com"
     }
   },
   "mission": {
@@ -59,22 +59,22 @@
       {
         "name": "1) Intro Call",
         "description": "Have a free, 1-on-1 call with one of our matchmakers who get you know you and enter you into our candidate pool.",
-        "icon": "/assets/images/react.png"
+        "icon": "/assets/images/1.png"
       },
       {
         "name": "2) Get Match Requests",
         "description": "As we come across candidates we think will be a good match for you, we'll notify you by sending a \"match request\" email and follow up with a phone call to discuss.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/2.png"
       },
       {
         "name": "3) Accept or Decline Match Requests",
         "description": "We want you to feel comfortable declining match requests. Be picky and hold out for a really great match! When you decide you want to accept a match, you then pay the $100. If your potential match also accepts, we'll put you two in touch! If the other party for whatever reason doesn't accept, you'll be automatically fully refunded!",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/3.png"
       },
       {
         "name": "4) Repeat, And Pause At Any Time",
         "description": "Once you've found your special person (or if you just feel like to want to take a break from dating for a while) you can always just send us an email or phone call, and we'll stop sending you match requests. It's as simple as that!",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/4.png"
       }
     ]
   },
@@ -124,9 +124,10 @@
   "about": {
     "sections": [],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "facebook": "https://www.facebook.com/profile.php?id=100090330725289",
+      "twitter": "https://twitter.com/HobokenMatch",
+      "mail": "mailto:matchmaker@hobokenmatchmaking.com",
+      "bookCall": "https://calendly.com/hobokenmatchmaking"
     }
   }
 }

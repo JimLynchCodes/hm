@@ -35,7 +35,7 @@ const Pricing = () => {
               <ul className={`w-full text-center text-sm`}>
                 {firstPlan?.system.map((feature) => (
                   <li
-                    className={`border-b py-4`}
+                    className={`border-b py-4 px-2`}
                     key={`${firstPlan.name}-${feature}`}
                   >
                     {feature}
@@ -44,7 +44,7 @@ const Pricing = () => {
               </ul>
             </div>
             <div
-              className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}
+              className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow py-6 px-2`}
             >
               <div
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
@@ -69,7 +69,7 @@ const Pricing = () => {
               <ul className={`w-full text-center text-base font-bold`}>
                 {secondPlan?.system.map((feature) => (
                   <li
-                    className={`border-b py-4`}
+                    className={`border-b py-4 px-3`}
                     key={`${secondPlan?.name}-${feature}`}
                   >
                     {feature}
@@ -98,7 +98,7 @@ const Pricing = () => {
               <ul className={`w-full text-center text-sm`}>
                 {thirdPlan?.system.map((feature) => (
                   <li
-                    className={`border-b py-4`}
+                    className={`border-b py-4 px-2`}
                     key={`${thirdPlan?.name}-${feature}`}
                   >
                     {feature}
@@ -107,7 +107,7 @@ const Pricing = () => {
               </ul>
             </div>
             <div
-              className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}
+              className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow py-6 px-2`}
             >
               <div
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}

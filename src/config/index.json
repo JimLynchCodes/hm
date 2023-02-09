@@ -19,13 +19,13 @@
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Get Started",
+    "href": "https://calendly.com/hobokenmatchmaking"
   },
   "mainHero": {
     "title": "Great Matchmaking",
     "subtitle": "In Hoboken, NJ",
-    "description": "We offer, hands down, the best matchmaking services available in and around the New York metro area. We're different because we describe your potential match BEFORE you pay, and if you accept it's only $100 per match! So why not give the into consultation a try? After all, it's FREE to get started!",
+    "description": "We offer, hands down, the best matchmaking services available in and around the New York metro area. We're different because we describe your potential match BEFORE you pay, and if you accept it's only $100 per match! So why not give the intro consultation a try? After all, it's FREE to get started!",
     "img": "/assets/images/matchmaking-image.jpeg",
     "primaryAction": {
       "text": "Book Intro Call",
@@ -54,7 +54,7 @@
   "system": {
     "title": "Experience the Magic",
     "subtitle": "A Groundbreaking New System",
-    "description": "Our matchmaking system not only gives better matches to users, it also has been shown to cause less stress and require less time invested. And on top of all that, our service is up to 50x more affordable than our competitors like \"Tawkify\" and \"It's Just Lunch\".",
+    "description": "Our matchmaking system not only gives better matches to users, but it also has been shown to cause less stress and require less time invested. And on top of all that, our service is up to 50x more affordable than our competitors like \"Tawkify\" and \"It's Just Lunch\".",
     "items": [
       {
         "name": "1) Intro Call",
@@ -63,7 +63,7 @@
       },
       {
         "name": "2) Get Match Requests",
-        "description": "As we come across candidates we think will be a good match for you, we'll notify you by sending a \"match request\" email and follow up with a phone call to discuss.",
+        "description": "As we come across candidates we think will be a good match for you, we'll notify you by sending a Match Request email and optionally a follow up phone call.",
         "icon": "/assets/images/2.png"
       },
       {

@@ -62,7 +62,7 @@ const Menu = () => {
                 href="https://calendly.com/hobokenmatchmaking"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Book Intro Call
+                Get Started
               </a>
             </div>
           </nav>

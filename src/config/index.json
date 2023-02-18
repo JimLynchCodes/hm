@@ -25,7 +25,7 @@
   "mainHero": {
     "title": "Great Matchmaking",
     "subtitle": "In Hoboken, NJ",
-    "description": "We offer, hands down, the best matchmaking services available in and around the New York metro area. We're different because we describe your potential match BEFORE you pay, and if you accept it's only $100 per match! So why not give the intro consultation a try? After all, it's FREE to get started!",
+    "description": "We offer, hands down, the best matchmaking services available in and around the New York metro area. We're different because we describe your potential match BEFORE you pay, and if you accept it's only $150 per match! So why not give the intro consultation a try? After all, it's FREE to get started!",
     "img": "/assets/images/matchmaking-image.jpeg",
     "primaryAction": {
       "text": "Book Intro Call",
@@ -68,7 +68,7 @@
       },
       {
         "name": "3) Accept or Decline Match Requests",
-        "description": "We want you to feel comfortable declining match requests. Be picky and hold out for a really great match! When you decide you want to accept a match, you then pay the $100. If your potential match also accepts, we'll put you two in touch! If the other party for whatever reason doesn't accept, you'll be automatically fully refunded!",
+        "description": "We want you to feel comfortable declining match requests. Be picky and hold out for a really great match! When you decide you want to accept a match, you then pay the $150. If your potential match also accepts, we'll put you two in touch! If the other party for whatever reason doesn't accept, you'll be automatically fully refunded!",
         "icon": "/assets/images/3.png"
       },
       {
@@ -95,21 +95,21 @@
       },
       {
         "name": "Get Matched, Then Pay",
-        "price": "$100",
+        "price": "$150",
         "priceDetails": " per match",
 
         "system": [
           "When we find a good match, we'll contact you.",
           "We then describe the match we have for you.",
           "We pitch you the opportunity with no pressure.",
-          "Each party pays $100 to accept the match.",
+          "Each party pays $150 to accept the match.",
           "If both parties accept, you're connected!",
           "In cases where only one party accepts, the other person is automatically fully refunded."
         ]
       },
       {
         "name": "Coaching",
-        "price": "$100",
+        "price": "$150",
         "priceDetails": "per hour",
         "system": [
           "1-hour video or phone call focused on you.",
